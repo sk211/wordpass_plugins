@@ -49,6 +49,13 @@ https://wordpress.org/plugins/wordpre...
 10. FaceBook Messenger - ( Grants FaceBook Integration)
 https://wordpress.org/plugins/fb-mess...
 
+##wpbegner
+
+
+1.Comment Edite plugin (Simple Comment Editing) -link->https://wordpress.org/plugins/simple-comment-editing/
+
+2.create a popup on optinmonster(optinmonster) link-> https://wordpress.org/plugins/optinmonster/
+
 HONORABLE MENTIONS!
 
 Elementor - Best Free Page Builder For Wordpress
